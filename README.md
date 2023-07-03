@@ -1,16 +1,43 @@
-### Hi there 👋
+<p align="center">Welcome to my Git!</p>
 
-<!--
-**shabbir-kapadia/shabbir-kapadia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+Hello! I am Shabbir Kapadia, a software engineer driven by curiosity and a desire to create something better by understanding the building blocks of the world. I have an adventurous spirit and constantly seek new challenges.
 
-Here are some ideas to get you started:
+With a strong background in software engineering and academic excellence, I bring a wealth of technical expertise and a passion for problem-solving to every project. I am committed to continuous learning and pushing the boundaries of software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+While my focus lies in software engineering, I also have a strong interest in finance. I delve into finance-related books and blogs and actively invest in a range of stocks and cryptocurrencies, including "shitcoins" :p . My ultimate goal is to contribute to transformative projects and ideas that can have a significant impact on the world.
+</p>
+
+<div align="center">
+    <img src="https://media.tenor.com/Yzeh4Z4UQuAAAAAC/viciadoemcodar.gif" alt="hey" />
+</div>
+
+<!-- TECHNOLOGIES -->
+<h3>: Technologies</h3>
+
+<p>
+<img alt="python" src="https://img.shields.io/badge/Python-black?logo=python&amp;style=plastic" /> <img alt="java" src="https://img.shields.io/badge/Java-black?logo=java&amp;style=plastic" /> <img alt="javascript" src="https://img.shields.io/badge/Javascript-black?logo=javascript&amp;style=plastic" /> <img alt="npm" src="https://img.shields.io/badge/npm-black?logo=npm&amp;style=plastic" /> <img alt="nodejs" src="https://img.shields.io/badge/Node.js-black?logo=node.js&amp;style=plastic" /> <img alt="react" src="https://img.shields.io/badge/React-black?logo=react&amp;style=plastic" /> <img alt="django" src="https://img.shields.io/badge/Django-black?logo=django&amp;style=plastic" /> <img alt="php" src="https://img.shields.io/badge/PHP-black?logo=php&amp;style=plastic" /> <img alt="git" src="https://img.shields.io/badge/Git-black?logo=git&amp;style=plastic" /> <img alt="ansible" src="https://img.shields.io/badge/Ansible-black?logo=ansible&amp;style=plastic" /> <img alt="amazon-aws" src="https://img.shields.io/badge/AWS-black?logo=amazon-aws&amp;style=plastic" /> <img alt="numpy" src="https://img.shields.io/badge/NumPy-black?logo=numpy&amp;style=plastic" /> <img alt="pandas" src="https://img.shields.io/badge/Pandas-black?logo=pandas&amp;style=plastic" /> <img alt="scikit-learn" src="https://img.shields.io/badge/Scikit%20Learn-black?logo=scikit-learn&amp;style=plastic" /> <img alt="selenium" src="https://img.shields.io/badge/Selenium-black?logo=selenium&amp;style=plastic" /> <img alt="eslint" src="https://img.shields.io/badge/ESLint-black?logo=eslint&amp;style=plastic" /> <img alt="vscode" src="https://img.shields.io/badge/VSCode-black?logo=visual-studio-code&amp;style=plastic" /> <img alt="chrome" src="https://img.shields.io/badge/Google%20Chrome-black?logo=google-chrome&amp;style=plastic" /> <img alt="brave" src="https://img.shields.io/badge/Brave-black?logo=brave&amp;style=plastic" /> <img alt="sass" src="https://img.shields.io/badge/Sass-black?logo=sass&amp;style=plastic" /> <img alt="styled-components" src="https://img.shields.io/badge/Styled%20components-black?logo=styled-components&amp;style=plastic" /> 
+</p>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+<p>
+<img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=shabbir-kapadia&color=blue"/>
+<img alt="Profile Views" src="https://komarev.com/ghpvc/?username=shabbir-kapadia"/>
+</p>
+
+<a align="center" href="https://shabbir-kapadia.netlify.app/">
+    <img src="https://github-readme-stats.vercel.app/api?username=shabbir-kapadia&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shabbir-kapadia&layout=compact&theme=tokyonight" alt="languages" height="165">
+</a>
+
+<!-- SOCIAL -->
+<p>
+    <a href="https://github.com/shabbir-kapadia" target="_blank">
+        <img alt="github" src="https://img.shields.io/github/followers/shabbir-kapadia?label=GitHub&amp;style=social" />
+    </a><a href="https://www.linkedin.com/in/shabbirkapadia/" target="_blank">
+        <img alt="linkedin" src="https://img.shields.io/badge/Linkedin-grey?logo=linkedin&amp;style=social" />
+    </a>
+    </a>
+</p>
+
+<hr />
