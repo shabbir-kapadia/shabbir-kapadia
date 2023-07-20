@@ -1,11 +1,11 @@
 <p align="center">Welcome to my Git!</p>
 
 <p>
-Hello! I am Shabbir Kapadia, a software engineer driven by curiosity and a desire to create something better by understanding the building blocks of the world. I have an adventurous spirit and constantly seek new challenges.
+Hello! I am Shabbir, a software engineer driven by curiosity and a desire to create something better by understanding the building blocks of the world. I have an adventurous spirit and constantly seek new challenges.
 
 With a strong background in software engineering and academic excellence, I bring a wealth of technical expertise and a passion for problem-solving to every project. I am committed to continuous learning and pushing the boundaries of software development.
 
-While my focus lies in software engineering, I also have a strong interest in finance. I delve into finance-related books and blogs and actively invest in a range of stocks and cryptocurrencies, including "shitcoins" :p . My ultimate goal is to contribute to transformative projects and ideas that can have a significant impact on the world.
+While my focus lies in software engineering, I also have a strong interest in finance. I delve into finance-related books and blogs and actively invest in a range of stocks and cryptocurrencies, including "shitcoins". My ultimate goal is to contribute to transformative projects and ideas that can have a significant impact on the world.
 </p>
 
 <div align="center">
