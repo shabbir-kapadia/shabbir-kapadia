@@ -1,43 +1,21 @@
-<p align="center">Welcome to my Git!</p>
+# 💫 About Me:
+🧠 Currently working: Housecall Pro — Stripe payment integration<br>🌱 Learning: System Architecture & Domain-Driven Design<br>💼 Previous experience: Fintech roles at HSBC & Charles Schwab<br>⚡ Fun fact: Master at buying high, selling low<br>💬 Outside of work: Studying Options & After Effects
 
-<p>
-Hello! I am Shabbir, a software engineer driven by curiosity and a desire to create something better by understanding the building blocks of the world. I have an adventurous spirit and constantly seek new challenges.
 
-With a strong background in software engineering and academic excellence, I bring a wealth of technical expertise and a passion for problem-solving to every project. I am committed to continuous learning and pushing the boundaries of software development.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shabbirkapadia) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shabbir.kapadia10@gmail.com) 
 
-While my focus lies in software engineering, I also have a strong interest in finance. I delve into finance-related books and blogs and actively invest in a range of stocks and cryptocurrencies, including "shitcoins". My ultimate goal is to contribute to transformative projects and ideas that can have a significant impact on the world.
-</p>
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=plastic&logo=ruby&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=plastic&logo=datadog&logoColor=white) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=plastic&logo=snowflake&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=plastic&logo=ruby-on-rails&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=shabbir-kapadia&theme=aura&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=shabbir-kapadia&theme=aura&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shabbir-kapadia&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<div align="center">
-    <img src="https://media.tenor.com/Yzeh4Z4UQuAAAAAC/viciadoemcodar.gif" alt="hey" />
-</div>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=shabbir-kapadia&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-<!-- TECHNOLOGIES -->
-<h3>⚡ Technologies</h3>
+---
+[![](https://visitcount.itsvg.in/api?id=shabbir-kapadia&icon=1&color=8)](https://visitcount.itsvg.in)
 
-<p>
-<img alt="ruby on rails" src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?logo=ruby-on-rails&logoColor=white" /> <img alt="ruby" src="https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white" /> <img alt="react" src="https://img.shields.io/badge/React-black?logo=react&amp;style=plastic" /> <img alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white" /> <img alt="javascript" src="https://img.shields.io/badge/Javascript-black?logo=javascript&amp;style=plastic" /> <img alt="python" src="https://img.shields.io/badge/Python-black?logo=python&amp;style=plastic" /> <img alt="java" src="https://img.shields.io/badge/Java-black?logo=java&amp;style=plastic" /> <img alt="npm" src="https://img.shields.io/badge/npm-black?logo=npm&amp;style=plastic" /> <img alt="nodejs" src="https://img.shields.io/badge/Node.js-black?logo=node.js&amp;style=plastic" /> <img alt="django" src="https://img.shields.io/badge/Django-black?logo=django&amp;style=plastic" /> <img alt="php" src="https://img.shields.io/badge/PHP-black?logo=php&amp;style=plastic" /> <img alt="git" src="https://img.shields.io/badge/Git-black?logo=git&amp;style=plastic" /> <img alt="ansible" src="https://img.shields.io/badge/Ansible-black?logo=ansible&amp;style=plastic" /> <img alt="amazon-aws" src="https://img.shields.io/badge/AWS-black?logo=amazon-aws&amp;style=plastic" /> <img alt="numpy" src="https://img.shields.io/badge/NumPy-black?logo=numpy&amp;style=plastic" /> <img alt="pandas" src="https://img.shields.io/badge/Pandas-black?logo=pandas&amp;style=plastic" /> <img alt="scikit-learn" src="https://img.shields.io/badge/Scikit%20Learn-black?logo=scikit-learn&amp;style=plastic" /> <img alt="selenium" src="https://img.shields.io/badge/Selenium-black?logo=selenium&amp;style=plastic" /> <img alt="eslint" src="https://img.shields.io/badge/ESLint-black?logo=eslint&amp;style=plastic" /> <img alt="vscode" src="https://img.shields.io/badge/VSCode-black?logo=visual-studio-code&amp;style=plastic" /> <img alt="sass" src="https://img.shields.io/badge/Sass-black?logo=sass&amp;style=plastic" /> <img alt="styled-components" src="https://img.shields.io/badge/Styled%20components-black?logo=styled-components&amp;style=plastic" /> 
-</p>
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-<p>
-<img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=shabbir-kapadia&color=blue"/>
-<img alt="Profile Views" src="https://komarev.com/ghpvc/?username=shabbir-kapadia"/>
-</p>
-
-<a align="center" href="https://shabbir-kapadia.netlify.app/">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shabbir-kapadia&layout=compact&theme=tokyonight" alt="languages" height="165">
-</a>
-
-<!-- SOCIAL -->
-<p>
-    <a href="https://github.com/shabbir-kapadia" target="_blank">
-        <img alt="github" src="https://img.shields.io/github/followers/shabbir-kapadia?label=GitHub&amp;style=social" />
-    </a><a href="https://www.linkedin.com/in/shabbirkapadia/" target="_blank">
-        <img alt="linkedin" src="https://img.shields.io/badge/Linkedin-grey?logo=linkedin&amp;style=social" />
-    </a>
-    </a>
-</p>
-
-<hr />
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
